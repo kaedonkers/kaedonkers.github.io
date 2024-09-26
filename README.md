@@ -9,13 +9,13 @@ I am doing this PhD as part of the Environmental Intelligence CDT* at the Univer
 This PhD is financially supported by the Met Office, for whom I work part-time as a research software engineer and to whom I am very grateful.
 I started this PhD in September 2020 and, due to the part-time nature of it, have a finish date of September 2026.
 
-My supervisors are [Prof. Brett Day](https://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Brett_Day)$^1$, 
-[Dr. Daniel Williamson](https://mathematics.exeter.ac.uk/staff/dw356?sm=dw356)$^1$ and 
-[Dr. Deborah Hemming](https://www.metoffice.gov.uk/research/people/deborah-hemming)$^2$.
+My supervisors are [Prof. Brett Day](https://business-school.exeter.ac.uk/about/people/profile/index.php?web_id=Brett_Day)<sup>1</sup>, 
+[Dr. Daniel Williamson](https://mathematics.exeter.ac.uk/staff/dw356?sm=dw356)<sup>1</sup> and 
+[Dr. Deborah Hemming](https://www.metoffice.gov.uk/research/people/deborah-hemming)<sup>2</sup>.
 
 *CDT = Centre for Doctoral Training<br>
-$^1$ University of Exeter, UK<br>
-$^2$ Met Office, Exeter, UK
+<sup>1</sup> University of Exeter, UK<br>
+<sup>2</sup> Met Office, Exeter, UK
 
 
 ## Motivation
